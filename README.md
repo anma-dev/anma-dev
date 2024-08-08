@@ -16,7 +16,7 @@ Frontend Development: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, MUI, React
 Backend Development: Node.js, Express.js, NestJS, Django, Flask, FastAPI, Laravel, CodeIgniter <br>
 DevOps and Services: Git, GitHub, GitLab, Jenkins, Docker, Kubernetes, AWS, Azure, Google Cloud Platform <br>
 #### Artificial Intelligence:
-Skills: LLM, GPT-4, Claude, Bloom, RAG, Vector DB, AI Chatbot, Gen AI
+Skills: LLM, GPT-4, Claude, Bloom, RAG, Vector DB, AI Chatbot, Image Generation, Audio Generation, Video Generation <br>
 Chatbot Development: Botpress, ChatterBot, Rasa, Dialogflow, Microsoft Bot Framework <br>
 Retrieval-Augmented Generation (RAG): LangChain, LlamaIndex <br>
 VectorDB: Pinecone, Qdrant, Chroma, Milvus <br>

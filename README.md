@@ -6,8 +6,6 @@
 
 With over 6 years of experience in the technology industry, I specialize in front-end and back-end web development and artificial intelligence. My expertise spans a variety of languages, frameworks, and technologies, enabling me to deliver robust, scalable, and innovative solutions.
 
-<br>
-
 ### 💻 What can I do ?
 #### Languages
 Javascript, PHP, Python
